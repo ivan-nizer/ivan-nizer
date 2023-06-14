@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ivan-nizer
+- 👋 Hi, I’m Niii Technology and Training
 - 👀 I’m interested in python, java, C++, C#, C, cybersecurity, database
 - 🌱 I’m currently learning AI, Blockchain
 - 💞️ I’m looking to collaborate on projects and missions of companies and people
